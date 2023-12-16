@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "cstring": "cpp",
+        "string_view": "cpp"
+    }
+}
